@@ -1,0 +1,17 @@
+\\Mac\Home\Desktop\MolotovaLINQ\MolotovaLINQ\bin\Debug\net6.0-windows\MolotovaLINQ.exe
+\\Mac\Home\Desktop\MolotovaLINQ\MolotovaLINQ\bin\Debug\net6.0-windows\MolotovaLINQ.deps.json
+\\Mac\Home\Desktop\MolotovaLINQ\MolotovaLINQ\bin\Debug\net6.0-windows\MolotovaLINQ.runtimeconfig.json
+\\Mac\Home\Desktop\MolotovaLINQ\MolotovaLINQ\bin\Debug\net6.0-windows\MolotovaLINQ.dll
+\\Mac\Home\Desktop\MolotovaLINQ\MolotovaLINQ\bin\Debug\net6.0-windows\MolotovaLINQ.pdb
+\\Mac\Home\Desktop\MolotovaLINQ\MolotovaLINQ\obj\Debug\net6.0-windows\MolotovaLINQ.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\MolotovaLINQ\MolotovaLINQ\obj\Debug\net6.0-windows\MolotovaLINQ.Form1.resources
+\\Mac\Home\Desktop\MolotovaLINQ\MolotovaLINQ\obj\Debug\net6.0-windows\MolotovaLINQ.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\MolotovaLINQ\MolotovaLINQ\obj\Debug\net6.0-windows\MolotovaLINQ.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\MolotovaLINQ\MolotovaLINQ\obj\Debug\net6.0-windows\MolotovaLINQ.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\MolotovaLINQ\MolotovaLINQ\obj\Debug\net6.0-windows\MolotovaLINQ.AssemblyInfo.cs
+\\Mac\Home\Desktop\MolotovaLINQ\MolotovaLINQ\obj\Debug\net6.0-windows\MolotovaLINQ.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\MolotovaLINQ\MolotovaLINQ\obj\Debug\net6.0-windows\MolotovaLINQ.dll
+\\Mac\Home\Desktop\MolotovaLINQ\MolotovaLINQ\obj\Debug\net6.0-windows\refint\MolotovaLINQ.dll
+\\Mac\Home\Desktop\MolotovaLINQ\MolotovaLINQ\obj\Debug\net6.0-windows\MolotovaLINQ.pdb
+\\Mac\Home\Desktop\MolotovaLINQ\MolotovaLINQ\obj\Debug\net6.0-windows\MolotovaLINQ.genruntimeconfig.cache
+\\Mac\Home\Desktop\MolotovaLINQ\MolotovaLINQ\obj\Debug\net6.0-windows\ref\MolotovaLINQ.dll
